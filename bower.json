@@ -1,0 +1,20 @@
+{
+  "name": "phoenix_tutorial",
+  "version": "0.0.0",
+  "dependencies": {
+    "react": "~0.13.3",
+    "jquery": "~2.1.4"
+  },
+  "homepage": "https://github.com/sergeant-wizard/phoenix_tutorial",
+  "authors": [
+    "Ryo Miyajima <r.miyajima@aktsk.jp>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

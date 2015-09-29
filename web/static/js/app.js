@@ -19,3 +19,10 @@ import "deps/phoenix_html/web/static/js/phoenix_html"
 // paths "./socket" or full ones "web/static/js/socket".
 
 // import socket from "./socket"
+
+$(function() {
+  React.render(
+    <h2 className="jumbotron">Hello from React!</h2>,
+    document.getElementById('hello_world')
+  );
+});
